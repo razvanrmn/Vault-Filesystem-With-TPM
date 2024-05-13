@@ -1,0 +1,16 @@
+{
+    "description":"Policy PCR 0 TPM2_ALG_SHA256",
+
+    "policy":[
+        {
+            "type":"POLICYPCR",
+            "pcrs":[
+                {
+                    "pcr":0,
+                    "hashAlg":"TPM2_ALG_SHA1",
+                    "digest":"0000000000000000000000000000000000000000"
+                }
+            ]
+        }
+    ]
+}

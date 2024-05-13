@@ -1,0 +1,12 @@
+{
+        "fapi":{
+            "profile_name": "P_RSA2048SHA256",
+            "profile_dir": "/home/razvan/Desktop/TPM/vault_file_system/fapi-config",
+            "ek_cert_less": "yes",
+            "user_dir": "/home/razvan/Desktop/TPM/vault_file_system/fapi-config/keystore",
+            "system_dir": "/home/razvan/Desktop/TPM/vault_file_system/fapi-config/keystore",
+            "tcti": "mssim:port=2321",
+            "system_pcrs" : [0, 1, 2, 3, 4, 5, 6, 7],
+            "log_dir" : "/home/razvan/Desktop/TPM/vault_file_system/fapi-config/logs"
+        }
+}

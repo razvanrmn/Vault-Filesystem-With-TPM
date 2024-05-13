@@ -1,0 +1,11 @@
+{
+    "profile_name": "P_ECCP256SHA256", 
+    "profile_dir": "/usr/local/etc/tpm2-tss/fapi-profiles/", 
+    "user_dir": "/tmp/tmpdd1b80wc", 
+    "system_dir": "/tmp/tmpeetadmdy", 
+    "tcti": "", 
+    "system_pcrs": [], 
+    "log_dir": "/tmp/tmp_n9s3cbv", 
+    "firmware_log_file": "/dev/null", 
+    "ima_log_file": "/sys/kernel/security/ima/binary_runtime_measurements"
+}
